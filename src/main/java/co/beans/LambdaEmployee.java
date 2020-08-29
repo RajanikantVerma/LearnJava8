@@ -4,7 +4,6 @@ public class LambdaEmployee {
 	private int empId;
 	private String EmpName;
 	public LambdaEmployee(int empId, String empName) {
-		super();
 		this.empId = empId;
 		EmpName = empName;
 	}
