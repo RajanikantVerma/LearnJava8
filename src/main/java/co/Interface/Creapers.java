@@ -6,7 +6,7 @@ public interface Creapers {
 		System.out.println("In Creapers default");
 	}
 	static void InMthod() {
-		System.out.println("In Creapers Static");
+		System.out.println("In Creapers Static 1");
 	}
 
 }
