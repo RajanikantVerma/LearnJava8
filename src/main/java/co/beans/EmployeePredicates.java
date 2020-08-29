@@ -23,4 +23,7 @@ public class EmployeePredicates {
                     .filter( predicate )
                     .collect(Collectors.<Employee>toList());
     }
+    public void rajni() {
+    	System.out.println("rajni");
+    }
 }
